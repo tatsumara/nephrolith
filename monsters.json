@@ -1,0 +1,85 @@
+[
+	{
+		"name": "Monster Energy"
+	},
+	{
+		"name": "Monster Energy Zero Sugar"
+	},
+	{
+		"name": "White Pineapple Flavor",
+		"collection": "Reserve"
+	},
+	{
+		"name": "Ultra",
+		"collection": "Ultra"
+	},
+	{
+		"name": "Ultra Paradise",
+		"collection": "Ultra"
+	},
+	{
+		"name": "Ultra Gold",
+		"collection": "Ultra"
+	},
+	{
+		"name": "Ultra Fiesta",
+		"collection": "Ultra"
+	},
+	{
+		"name": "Ultra Violet",
+		"collection": "Ultra"
+	},
+	{
+		"name": "Ultra Watermelon",
+		"collection": "Ultra"
+	},
+	{
+		"name": "Khaotic",
+		"collection": "Juiced"
+	},
+	{
+		"name": "Mango Loco",
+		"collection": "Juiced"
+	},
+	{
+		"name": "Monarch",
+		"collection": "Juiced"
+	},
+	{
+		"name": "Pacific Punch",
+		"collection": "Punch"
+	},
+	{
+		"name": "Pipeline Punch",
+		"collection": "Punch"
+	},
+	{
+		"name": "Mixxd",
+		"collection": "Punch"
+	},
+	{
+		"name": "Peach Iced Tea",
+		"collection": "Rehab"
+	},
+	{
+		"name": "Monster Mule"
+	},
+	{
+		"name": "Lewis Hamilton"
+	},
+	{
+		"name": "Assault",
+		"tags": ["inosit"]
+	},
+	{
+		"name": "Assault",
+		"tags": ["guarana"]
+	},
+	{
+		"name": "Monster Energy Nitro"
+	},
+	{
+		"name": "Aussie Style Lemonade",
+		"collection": "Juiced"
+	}
+]
