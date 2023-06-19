@@ -1,8 +1,21 @@
-.box-container {
-	display: grid;
-	grid-template-columns: auto auto auto auto auto;
+:root {
+	--bg: #000000;
+	--text: #9b999b;
+	--accent: #7cb701;
 }
 
+body {
+	background-color: var(--bg);
+	color: var(--text);
+}
+
+.box-container {
+	display: grid;
+	gap: 10px;
+	grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
 .box {
-	padding: 20px;
+	padding: 10px;
+	border-style: solid;
+	border-color: var(--accent);
 }
