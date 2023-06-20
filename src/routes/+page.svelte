@@ -1,5 +1,5 @@
 <script>
-	import collection from '$lib/monsters.json'
+	import collection from '$lib/data/monsters.json'
 </script>
 
 <div class="box-container">
