@@ -4,9 +4,32 @@
 	--accent: #7cb701;
 }
 
+@font-face {
+	font-family: 'GreenEnergy';
+	src: url('/Green_Energy.ttf');
+}
+
 body {
 	background-color: var(--bg);
 	color: var(--text);
+}
+
+header {
+	color: var(--accent);
+	border-style: solid;
+	border-color: var(--accent);
+	margin-bottom: 10px;
+}
+#header-title {
+	color: var(--accent);
+	font-family: 'GreenEnergy';
+	font-size: 36px;
+	font-weight: bold;
+	padding: 10px;
+}
+#header-title a {
+	color: inherit;
+	text-decoration: none;
 }
 
 .box-container {
